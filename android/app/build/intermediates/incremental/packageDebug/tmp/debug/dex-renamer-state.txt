@@ -1,0 +1,4 @@
+#Sun Jul 14 07:37:09 CEST 2019
+base.0=D\:\\DarkAngel\\Projects\\GitHub\\react_native_firebase_notifications\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

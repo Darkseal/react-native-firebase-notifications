@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">796689028072-0o4p25dapjh7kt71gaah94jl4vbjf3mn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://react-native-fb-notifications.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">796689028072</string>
+    <string name="google_api_key" translatable="false">AIzaSyAdRmg6zlh1cFzhjbr5BaMXJ3YAs_yH_Uk</string>
+    <string name="google_app_id" translatable="false">1:796689028072:android:d2cb9d01de03e63c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAdRmg6zlh1cFzhjbr5BaMXJ3YAs_yH_Uk</string>
+    <string name="google_storage_bucket" translatable="false">react-native-fb-notifications.appspot.com</string>
+    <string name="project_id" translatable="false">react-native-fb-notifications</string>
+</resources>
