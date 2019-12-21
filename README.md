@@ -1,5 +1,5 @@
 # react-native-firebase-notifications
-React Native sample with Push Notifications support for Android and iOS using Firebase SDK and API.
+React Native sample app for Android and iOS with Push Notifications support for Android and iOS using Firebase SDK and API.
 
 ## Introduction
 
