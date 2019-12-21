@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DarkAngel\\Projects\\GitHub\\react_native_firebase_notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "outputFile": "G:\\react-native-firebase-notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\98b5231360996bc1223b74b9960ea840\\res\\values-vi\\values.xml",
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\94cc2a7401b9ba10f27cc310a75dd73f\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,23 +72,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\649beadd3d8ac437ef73222486cde6b5\\res\\values-vi\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "98",
-                        "endOffsets": "303"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5564",
-                        "endColumns": "102",
-                        "endOffsets": "5662"
-                    }
-                },
-                {
                     "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\74253cc09348a20aad0765d5e7b61a32\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
@@ -103,6 +86,23 @@
                         "startOffsets": "5851",
                         "endColumns": "100",
                         "endOffsets": "5947"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\401b5ee49df22e607edcf7da23d229cd\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "98",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5564",
+                        "endColumns": "102",
+                        "endOffsets": "5662"
                     }
                 }
             ]

@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DarkAngel\\Projects\\GitHub\\react_native_firebase_notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "G:\\react-native-firebase-notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\649beadd3d8ac437ef73222486cde6b5\\res\\values-sw\\values.xml",
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\94cc2a7401b9ba10f27cc310a75dd73f\\res\\values-sw\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "103",
-                        "endOffsets": "308"
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
                     },
                     "to": {
-                        "startLines": "47",
+                        "startLines": "37",
                         "startColumns": "4",
-                        "startOffsets": "5551",
-                        "endColumns": "107",
-                        "endOffsets": "5654"
+                        "startOffsets": "3974",
+                        "endColumns": "204",
+                        "endOffsets": "4174"
                     }
                 },
                 {
@@ -72,6 +72,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\401b5ee49df22e607edcf7da23d229cd\\res\\values-sw\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "103",
+                        "endOffsets": "308"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5551",
+                        "endColumns": "107",
+                        "endOffsets": "5654"
+                    }
+                },
+                {
                     "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\f54d2d9caec4db7d4092c906eb328e4f\\res\\values-sw\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -86,23 +103,6 @@
                         "startOffsets": "5659",
                         "endColumns": "104",
                         "endOffsets": "5759"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\98b5231360996bc1223b74b9960ea840\\res\\values-sw\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3974",
-                        "endColumns": "204",
-                        "endOffsets": "4174"
                     }
                 }
             ]

@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DarkAngel\\Projects\\GitHub\\react_native_firebase_notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "outputFile": "G:\\react-native-firebase-notifications\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\401b5ee49df22e607edcf7da23d229cd\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "96",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4969",
+                        "endColumns": "100",
+                        "endOffsets": "5065"
+                    }
+                },
                 {
                     "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\f54d2d9caec4db7d4092c906eb328e4f\\res\\values-zh-rCN\\values.xml",
                     "from": {
@@ -18,6 +35,23 @@
                         "startOffsets": "5070",
                         "endColumns": "97",
                         "endOffsets": "5163"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\94cc2a7401b9ba10f27cc310a75dd73f\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "157",
+                        "endOffsets": "408"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3686",
+                        "endColumns": "157",
+                        "endOffsets": "3839"
                     }
                 },
                 {
@@ -38,23 +72,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\649beadd3d8ac437ef73222486cde6b5\\res\\values-zh-rCN\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "209",
-                        "endColumns": "96",
-                        "endOffsets": "305"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "4969",
-                        "endColumns": "100",
-                        "endOffsets": "5065"
-                    }
-                },
-                {
                     "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\74253cc09348a20aad0765d5e7b61a32\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
@@ -69,23 +86,6 @@
                         "startOffsets": "5246",
                         "endColumns": "100",
                         "endOffsets": "5342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\DarkAngel\\.gradle\\caches\\transforms-2\\files-2.1\\98b5231360996bc1223b74b9960ea840\\res\\values-zh-rCN\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "157",
-                        "endOffsets": "408"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3686",
-                        "endColumns": "157",
-                        "endOffsets": "3839"
                     }
                 },
                 {
